@@ -1,3 +1,16 @@
+/*
+
+Program: file_serial_access_by_line_cpp
+
+Author: Gabriel Vitor Amaral Ramos 
+
+Date: 04/06/2025
+
+Description: this program demonstrates how to read a text file line by line in C++ and display its content on the screen.
+
+License: [CC BY]
+
+*/
 #include <iostream>
 #include <fstream>
 #include <string>

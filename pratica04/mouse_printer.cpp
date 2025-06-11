@@ -1,3 +1,17 @@
+/*
+
+Program: C++
+
+Author: Gabriel Ramos
+
+Date: 21/04/2025
+
+Description: Calculo da area e contorno de um circulo e um retangulo e implementacao do laço for
+
+License: CC BY-NC-SA
+
+*/
+
 #include <iostream>
 #include <windows.h>
 #include <conio.h>

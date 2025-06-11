@@ -1,3 +1,16 @@
+/*
+
+Program: C
+
+Author: Gabriel Ramos
+
+Date: [21/04/2025]
+
+Description: Calculo da area e contorno de um circulo e um retangulo
+
+License: CC BY-NC-SA
+
+*/
 #include <stdio.h>
 #include <windows.h>
 #include <conio.h>

@@ -1,3 +1,9 @@
+# Program: Python
+# Author: Gabriel Ramos
+# Date: 21/04/2025
+# Description: Calculo da área e contorno de um círculo e um retângulo e implementacao do laco for
+# License: "CC BY-NC-SA"
+
 from ctypes import windll, Structure, c_long, byref
 import time
 import msvcrt
@@ -10,7 +16,7 @@ def query_mouse_position():
     windll.user32.GetCursorPos(byref(pt))
     return {"x": pt.x, "y": pt.y}
 
-if _name_ == "_main_":
+if __name__ == "_main_":
   
   while True:
     pos = query_mouse_position()

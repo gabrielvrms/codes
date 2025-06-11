@@ -1,3 +1,16 @@
+/*
+
+Program: file_direct_access_cpp
+
+Author: Gabriel Vitor Amaral Ramos 
+
+Date: 04/06/2025
+
+Description: Demonstrates reading and writing structures as binary data to a file in C++.
+
+License: [CC BY]
+
+*/
 #include <iostream>
 #include <fstream>  // To work with files in C++
 #include <string>   // To work with strings in C++
